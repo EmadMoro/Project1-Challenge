@@ -33,7 +33,7 @@ Slideshow: https://docs.google.com/presentation/d/1jLXwHtdwC0lKHhIJUuBS5Rgwb_fQH
     - Then we did chart the popularity of cars according to heir mileage.
 
 ## Analysis and Explanation
-    + ![Chart 1](<Price Distribution (box plot)-1.png>) 
+    + ![Chart 1](<[Price Distribution (box plot)-1.png](https://github.com/EmadMoro/Project1-Challenge/blob/main/image/Price%20Distribution%20(box%20plot).png)>) 
         This chart shows us how prices are distributed in quartiles and how outliers data with lower and upper bounds.
         The data we obtained: 
             The lower quartile of prices is: 1500.0
