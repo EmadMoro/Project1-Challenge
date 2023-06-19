@@ -3,10 +3,10 @@ Slideshow: https://docs.google.com/presentation/d/1jLXwHtdwC0lKHhIJUuBS5Rgwb_fQH
 # Car Market Research
 
 ## Contributors:   
-    ### - Raph Caymo
-    ### - Yohannes Daniel
-    ### - Emadeldin Moro
-    ### - Elee Saleem
+    ### Raph Caymo
+    ### Yohannes Daniel
+    ### Emadeldin Moro
+    ### Elee Saleem
 
 ## Summary
     In this research we will explore trends in the car market for year of 2016 in Germany and understand what factors play key roles in this industry, what gravitates consumers to which kind of cars.
