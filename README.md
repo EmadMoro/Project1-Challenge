@@ -52,7 +52,7 @@ Slideshow: https://docs.google.com/presentation/d/1jLXwHtdwC0lKHhIJUuBS5Rgwb_fQH
             Values above 17750.0 could be outliers.
             Number of cars with outliers prices is  19371 
 
-    + ![Chart 2](<Price Popularity (hist plot).png>)
+    + ![Price Distribution (box plot)](https://github.com/EmadMoro/Project1-Challenge/assets/131826046/80d93e02-a0bf-469a-ade5-f4c43adbefd9)
         In this chart we see the most car purchased price tag in other words the most popular prices.
         We notice that the lower price is the more popular, so cars with prices below $4000 are the most popular exactly $1500 is the most repeated (most popular) price tag.
         Popularity in prices drops gradually all the way to $40k so $40k is the least popular price tag.
